@@ -24,15 +24,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp; -->
 
-### ⚙️ &nbsp;GitHub Analytics
-<br>
-<br>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srhtak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srhtak&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
