@@ -10,8 +10,6 @@
 ✉️ &nbsp;You can shoot me an email at srhtak777@gmail.com! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-<!-- ![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp; -->
+![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
