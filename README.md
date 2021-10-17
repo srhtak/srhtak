@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srhtak&layout=compact)](https://github.com/shtak/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srhtak&layout=compact)](https://github.com/shtak/srhtak)
 
 
 
